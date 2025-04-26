@@ -13,38 +13,38 @@ A proposta é desenvolver um sistema de fácil acesso com uma parte universal pa
 
 ## Documentação
 
-RF001 - O sistema deve manter Usuário
-RN001 - Os dados de Usuário são: CPF, nome, email, telefone, gênero, nascimento, endereço
+RF001 - O sistema deve manter Usuário\
+RN001 - Os dados de Usuário são: CPF, nome, email, telefone, gênero, nascimento, endereço\
 RN002 - Usuário deve ser a generalização para Cliente e Funcionário
 
-RF002 - O sistema deve manter Cliente
-RN003 - Cliente deve ser especialização parcial de Usuário
-RN004 - Os dados adicionais de Cliente são: código do cliente, encomendas
-RN005 - Cliente pode cadastrar e excluir encomenda
+RF002 - O sistema deve manter Cliente\
+RN003 - Cliente deve ser especialização parcial de Usuário\
+RN004 - Os dados adicionais de Cliente são: código do cliente, encomendas\
+RN005 - Cliente pode cadastrar e excluir encomenda\
 RN006 - Cliente pode verificar informações de sua encomenda
 
-RF003 - O sistema deve manter Funcionário
-RN007 - Funcionário deve ser especialização parcial de Usuário
-RN008 - Os dados adicionais de Funcionário são: código do funcionário, formação, cargo e setor
-RN009 - Funcionário deve ter acesso a todas as encomendas, podendo pesquisar por status, cliente e ordem cronológica de emissão
-RN010 - Funcionário pode cadastrar, alterar e excluir vestido
+RF003 - O sistema deve manter Funcionário\
+RN007 - Funcionário deve ser especialização parcial de Usuário\
+RN008 - Os dados adicionais de Funcionário são: código do funcionário, formação, cargo e setor\
+RN009 - Funcionário deve ter acesso a todas as encomendas, podendo pesquisar por status, cliente e ordem cronológica de emissão\
+RN010 - Funcionário pode cadastrar, alterar e excluir vestido\
 RN011 - Funcionário pode mudar status de encomenda
 
-RF004 - O sistema deve manter Telefone
+RF004 - O sistema deve manter Telefone\
 RN012 - Telefone deve ser dependente de Usuário
 
-RF005 - O sistema deve manter Endereço
-RN013 - Os dados do Endereço são: código do endereço, CEP, número da moradia, rua, bairro, cidade, estado
+RF005 - O sistema deve manter Endereço\
+RN013 - Os dados do Endereço são: código do endereço, CEP, número da moradia, rua, bairro, cidade, estado\
 RN014 - Endereço se relaciona com Usuário
 
-RF006 - O sistema deve manter Vestido
+RF006 - O sistema deve manter Vestido\
 RN015 - Os dados de Vestido são: código do vestido, nome, estilo, cor, descrição, média de preço
 
-RF007 - O sistema deve manter Encomenda
+RF007 - O sistema deve manter Encomenda\
 RN016 - Os dados são: código da encomenda, data de emissão, status, cliente, vestido, tamanho
 
-RNF001 - O sistema deve ser responsivo
-RNF002 - O front-end deve ser desenvolvido em VueJS
+RNF001 - O sistema deve ser responsivo/
+RNF002 - O front-end deve ser desenvolvido em VueJS/
 RNF003 - O back-end deve ser desenvolvido em Django
 
 ## Modelagem
