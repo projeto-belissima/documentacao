@@ -44,7 +44,7 @@ RF007 - O sistema deve manter Encomenda\
 RN016 - Os dados são: código da encomenda, data de emissão, status, cliente, vestido, tamanho
 
 RNF001 - O sistema deve ser responsivo/
-RNF002 - O front-end deve ser desenvolvido em VueJS/
+RNF002 - O front-end deve ser desenvolvido em VueJS\
 RNF003 - O back-end deve ser desenvolvido em Django
 
 ## Modelagem
