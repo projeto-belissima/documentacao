@@ -43,7 +43,7 @@ RN015 - Os dados de Vestido s찾o: c처digo do vestido, nome, estilo, cor, descri�
 RF007 - O sistema deve manter Encomenda\
 RN016 - Os dados s찾o: c처digo da encomenda, data de emiss찾o, status, cliente, vestido, tamanho
 
-RNF001 - O sistema deve ser responsivo/
+RNF001 - O sistema deve ser responsivo\
 RNF002 - O front-end deve ser desenvolvido em VueJS\
 RNF003 - O back-end deve ser desenvolvido em Django
 
