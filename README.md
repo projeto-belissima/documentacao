@@ -49,7 +49,7 @@ RNF003 - O back-end deve ser desenvolvido em Django
 
 ## Modelagem
 
-![Modelo conceitual do projeto](./img/belissima-modelo-conceitual.drawio.png)
+![Modelo conceitual do projeto](./img/belissima-modelo-de-classes-conceitual.drawio.png)
 
 ## Alunos
 - [Ruama Bernardes Raich](https://github.com/bernardesraischruama)
