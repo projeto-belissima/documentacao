@@ -60,6 +60,6 @@ RNF003 - O back-end deve ser desenvolvido em Django
 - 3INFO1
 
 ## Projetos
-- [Front-End](https://github.com/projeto-belissima/front-end.git)
-- [Back-End](https://github.com/projeto-belissima/back-end.git)
+- Front-End: [Repositório](https://github.com/projeto-belissima/front-end.git) e [Publicação](https://front-end-zeta-snowy.vercel.app)
+- Back-End: [Repositório](https://github.com/projeto-belissima/back-end.git) e [Publicação](https://belissima-j3it.onrender.com)
 - [Documentação](https://github.com/projeto-belissima/documentacao.git)
