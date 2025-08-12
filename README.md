@@ -52,6 +52,8 @@ RNF003 - O back-end deve ser desenvolvido em Django
 ![Modelo conceitual do projeto](./img/belissima-modelo-de-classes-conceitual.drawio.png)
 
 ## Alunos
+- [Ester dos Santos Antunes](https://github.com/antuneseds)
+- [Renaa da Silva de Lima](https://github.com/ReehLimas)
 - [Ruama Bernardes Raich](https://github.com/bernardesraischruama)
 - [Vinícius Rech](https://github.com/ViniRech)
 - [Vitória Fernanda Nicolau Padilha](https://github.com/fernandapadilha)
@@ -60,6 +62,6 @@ RNF003 - O back-end deve ser desenvolvido em Django
 - 3INFO1
 
 ## Projetos
-- Front-End: [Repositório](https://github.com/projeto-belissima/front-end.git) e [Publicação](https://front-end-zeta-snowy.vercel.app)
-- Back-End: [Repositório](https://github.com/projeto-belissima/back-end.git) e [Publicação](https://belissima-j3it.onrender.com)
+- Front-End: [Repositório](https://github.com/projeto-belissima/front-end.git) e [Publicação](https://front-end-pi-ten.vercel.app/)
+- Back-End: [Repositório](https://github.com/projeto-belissima/back-end.git) e [Publicação](https://belissima-deoi.onrender.com/)
 - [Documentação](https://github.com/projeto-belissima/documentacao.git)
