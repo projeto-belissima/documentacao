@@ -1,5 +1,25 @@
 # Belíssima
 
+## Alunos
+- [Ester dos Santos Antunes](https://github.com/antuneseds)
+- [Renata da Silva de Lima](https://github.com/ReehLimas)
+- [Ruama Bernardes Raich](https://github.com/bernardesraischruama)
+- [Vinícius Rech](https://github.com/ViniRech)
+- [Vitória Fernanda Nicolau Padilha](https://github.com/fernandapadilha)
+  
+## Turma
+- 3INFO1
+
+## Professores
+- [Eduardo da Silva](https://github.com/eduardo-da-silva)
+- [Marco Andre Lopes Mendes](https://github.com/marrcandre)
+
+## Projetos
+- Front-End: [Repositório](https://github.com/projeto-belissima/front-end.git) e [Publicação](https://front-end-pi-ten.vercel.app/)
+- Back-End: [Repositório](https://github.com/projeto-belissima/back-end.git) e [Publicação](https://belissima-deoi.onrender.com/)
+- Admin: a@a.com
+- [Documentação](https://github.com/projeto-belissima/documentacao.git)
+
 ## Problematização
 
 ### Descrição do Projeto
@@ -60,22 +80,3 @@ RNF004 - O sistema deve ter uma Progressive Web App\
 ## Modelagem
 
 ![Modelo lógico do projeto](./img/modelo-logico.png)
-
-## Alunos
-- [Ester dos Santos Antunes](https://github.com/antuneseds)
-- [Renata da Silva de Lima](https://github.com/ReehLimas)
-- [Ruama Bernardes Raich](https://github.com/bernardesraischruama)
-- [Vinícius Rech](https://github.com/ViniRech)
-- [Vitória Fernanda Nicolau Padilha](https://github.com/fernandapadilha)
-  
-## Turma
-- 3INFO1
-
-## Professores
-- [Eduardo da Silva](https://github.com/eduardo-da-silva)
-- [Marco Andre Lopes Mendes](https://github.com/marrcandre)
-
-## Projetos
-- Front-End: [Repositório](https://github.com/projeto-belissima/front-end.git) e [Publicação](https://front-end-pi-ten.vercel.app/)
-- Back-End: [Repositório](https://github.com/projeto-belissima/back-end.git) e [Publicação](https://belissima-deoi.onrender.com/)
-- [Documentação](https://github.com/projeto-belissima/documentacao.git)
